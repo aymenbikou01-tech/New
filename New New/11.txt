@@ -1,0 +1,1 @@
+pyinstaller --onefile --noconsole --uac-admin --icon=chrome.ico installer_DEV.py
